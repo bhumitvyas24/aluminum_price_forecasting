@@ -10,6 +10,8 @@ Evaluate models with **MSE, MAE, QLIKE.**
 Translate forecasts into hedge ratios for breweries.
 Compute hedge needs in LME futures contracts (25-ton lots).
 Compare GARCH vs LSTM hedging recommendations.
+
+
 📊 Workflow
 **Data Collection**
 
